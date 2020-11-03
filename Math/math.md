@@ -59,4 +59,41 @@
   A,B,C  E/  R|
 ~~~
 
+# Excercices:
+* Find the distances between AB,BC, CD, DA  
+~~~
+  A, (4, - 2), B(10, 8), C(0, 15), D(-6, 5)
+  d(AB) = x
+
+~~~
+* Formula: squareroot( (x2 - x1) ******** 2 + (y2 - y1)** 2 )
+
+
+~~~
+  d(AB ) = squareroot ((10 - 4) ** 2 + (8 - -2 ) ** 2)
+  d(AB) = squareroot (36 + 100) => squareroot(136)
+  d(AB) = squareroot (2 (34))
+~~~
+
+~~~
+  d(BC ) = squareroot ((0 - 10) ** 2 + ( 15 - 8 ) ** 2)
+  d(BC) = squareroot ( 100 + 49) => squareroot(149)
+  d(BC) = squareroot (149)
+~~~
+
+~~~
+  d(CD) = squareroot (( - 6 - 0) ** 2 + ( 5 - 15 ) ** 2)
+  d(CD) = squareroot (36 + 100) => squareroot(136)
+  d(CD) = squareroot (2(34)
+~~~
+
+~~~
+  d(CD) = squareroot (( 4 - -6) ** 2 + ( -2 - 5 ) ** 2)
+  d(CD) = squareroot (100 + 49) => squareroot(149)
+  d(CD) = squareroot (149)
+~~~
+
+* If you make the graphic of this points, and based in  the distances
+  results, you will get a rectangle
+
 

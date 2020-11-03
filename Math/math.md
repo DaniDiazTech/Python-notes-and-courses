@@ -56,7 +56,7 @@
    
   Ax + By + c = 0
   # siempre y cuando
-  A,B,C  E/  R|
+  A,B,C  Pertenece  R|
 ~~~
 
 # Excercices:
@@ -66,7 +66,7 @@
   d(AB) = x
 
 ~~~
-* Formula: squareroot( (x2 - x1) ******** 2 + (y2 - y1)** 2 )
+* Formula: squareroot( (x2 - x1) ****** 2 + (y2 - y1)** 2 )
 
 
 ~~~
